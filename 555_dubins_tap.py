@@ -1,5 +1,6 @@
 #
 # Jacob Stelzriede
+# Thesis Cozmo Implementation - UCSC Robotics Engineering
 #
 # *on start, cozmo will look around in place until a cube is found
 # *once the cube is found it will flash green and wait for a tap.
