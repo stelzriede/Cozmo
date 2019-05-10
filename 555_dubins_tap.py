@@ -5,10 +5,7 @@
 # *on start, cozmo will look around in place until a cube is found
 # *once the cube is found it will flash green and wait for a tap.
 # *once tapped, cozmo will navigate to that opject.
-#           **  currently just moves to hard coded value
-# **second part will be to add my own "go_to_pose" function from Dubins Kinematics
-#
-# ***third part would be to cycle through the cubes
+#  
 #
 #
 #
